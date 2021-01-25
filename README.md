@@ -1,4 +1,4 @@
-[GitHub Logo](/logo.png)
+(/cidacs.png)
 
 # A control framework to optimize social distancing measures in the course of the COVID-19 pandemic
 
