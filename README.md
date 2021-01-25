@@ -8,7 +8,7 @@ This library contains 3 main codes for simulating a nonlinear model predictive c
 
 ## If you like to
 
-* Learn about the models used herein: <XXX>
+* Learn about the models used herein: [Model](http://github.com/cidacslab/Mathematical-and-Statistical-Modeling-of-COVID19-in-Brazil/blob/master/docs/Mathematical%20and%20Statistical%20Modeling%20of%20COVID19%20in%20Brazil.ipynb)
 
 # Instalation
 
