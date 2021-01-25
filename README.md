@@ -16,7 +16,7 @@ Currently the library is on production, so the easiest way to use is clone our r
 
 # Dependencies
 
-Models were implemented using Matlab scrip 2017a
+Models were implemented using Matlab script 2017a
 
 # Contributors
 
