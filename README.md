@@ -1,6 +1,6 @@
 ![GitHub Logo](/cidacs.png)
 
-# A control framework to optimize social distancing measures in the course of the COVID-19 pandemic
+# A control framework to optimize public health policies in the course of the COVID-19 pandemic
 
 This library contains 3 main codes for simulating a nonlinear model predictive control (NMPC) coupled with a nonlinear model able to optimize the level of policies to stop epidemic growth.The library also provide detailed informations to reproduce all published results (accepted or preprint) in the folder "Reproducibility of published results".
 
